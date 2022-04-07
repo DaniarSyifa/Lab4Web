@@ -58,11 +58,15 @@ saya![Screenshot (22)](https://user-images.githubusercontent.com/101815570/16210
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/101815570/162109941-f655f21c-72fa-4308-bc3f-f26743f32ea4.png)
 
+Tugas Layout Menu About 
+
 ![Screenshot (35)](https://user-images.githubusercontent.com/101815570/162109958-7418668e-a36d-4b5c-9d52-b3796c39068c.png)
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/101815570/162109981-b4063fac-fd50-428a-a2eb-135e8deada96.png)
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/101815570/162110000-f9e1dc2d-9064-4efe-886a-94031d1b2913.png)
+
+Tugas Layout Menu Kontak
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/101815570/162110011-df98120e-eee9-47bd-add4-6a8cd7f17d0c.png)
 
@@ -70,4 +74,4 @@ saya![Screenshot (22)](https://user-images.githubusercontent.com/101815570/16210
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/101815570/162110051-4ee17f95-c6d5-43c4-b300-2e536482b65c.png)
 
-saya
+Terimakasi.
